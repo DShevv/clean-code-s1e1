@@ -4,21 +4,21 @@ body {
   color: #333;
   font-family: lato, sans-serif;
 }
-.ads-block {
+.ads-elem {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.ads-block img {
+.ads-elem img {
   width: 100%;
 }
-.ads-block .more-inf {
+.ads-elem .more-inf {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-  .ads-block { 
+  .ads-elem { 
     text-align: center;
   }
 }
