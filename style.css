@@ -18,9 +18,11 @@ body {
 }
 
 @media (max-width:768px) {
+
   .ads-elem { 
     text-align: center;
   }
+
 }
 .centered-main-page-elem {
   display: block;
@@ -57,6 +59,7 @@ button {
 button:hover {
   color: #3a3a3a;
 }
+
 /* Heading */
 h3,
 label[for='new-task'] {
@@ -101,7 +104,6 @@ li {
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
